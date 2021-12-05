@@ -318,6 +318,12 @@ banana          连猴子都懂的Git
 git tag -d <tagname>
 ```
 
+删除远程数据库标签
+
+```Bash
+git push origin -d tag 标签名
+```
+
 #### 将标签push到远程数据库
 
 ```Bash
