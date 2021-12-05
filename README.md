@@ -318,6 +318,12 @@ banana          连猴子都懂的Git
 git tag -d <tagname>
 ```
 
+#### 将标签push到远程数据库
+
+```Bash
+git push --tag
+```
+
 ### 6. 改写提交
 
 #### 6.1 修改最近的提交
